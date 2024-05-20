@@ -158,7 +158,11 @@ const Home = () => {
                     such as Hurricane Katrina and the police shooting of Sean Bell. Her experiences with injustice all over during her college days shaped her perspective and views on both policies 
                     regarding police and racial injustices. </p> 
                 <h4>We only want the Earth</h4>
-                <p>In chapter eight "We only want the Earth," Purnell explains that the climate, wheter it is economic, racial, or environmental has resulted in movements in American history. </p>
+                <p>In chapter eight "We only want the Earth," Purnell explains that the climate, whether it is economic, racial, or environmental has resulted in movements in American history, 
+                and expressed how climate change has impacted Black communitities. Purnell explained how as a result of poverty, many people in her neighborhood would find themselves cooling off outside and 
+                for privacy as well. She also mentions how incarcerated people are facing with a analogy to the aftermath of Hurricane Katrina, in which new Orleans built make shift cells to "rebuild" New Orleans. 
+                She explains that this was not unique as in the aftermath of disasters African Americans tend to suffer the most, and wraps up the chapter by explaining that the "abolition of the prison industrial complex is the minimum for healthy
+lives that we all deserve to live. We only want the Earth." (Purnell) </p>
                 <h5>Source: "Becoming Abolitionists: Police, Protests, and the pursuit of freedom" by Derecka Purnell</h5>
              </DropTable>
         </div>
