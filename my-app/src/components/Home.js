@@ -150,18 +150,18 @@ const Home = () => {
                 <p>In "Becoming Abolitionists: Police, Protests, and the Pursuit of Freedom" by Derecka Purnell, Purnell explains the problems that exists within today's social justice system
                 and why change is needed. Below are summaries of two chapters in her book.</p>
                 <h4>What Justice?</h4> 
-                <p>In chapter one "What Justice," Purnell explains her early days growing up in South St. Louis. Her Father was killed in a accident 1991, and she was raised by her mother who 
-                    gave her two career options- to either become a doctor or a lawyer. As a kid she excelled in school, and she notes that "Black people in St. Louis have a long history of 
-                    using education as a site of resistance" (Purnell). She first recognized the problems with the social justice system in the country after 9/11, in which she notice that there 
-                    were school police with scanners inside her school everyday, and noted that schools that were "—majority Black and economically divested—had the highest percentages of school 
-                    cops, and it remains so" to this day (Purnell). Her first experience with reading and writing news was JROTC, where she first read about news that captured national headlines, 
-                    such as Hurricane Katrina and the police shooting of Sean Bell. Her experiences with injustice all over during her college days shaped her perspective and views on both policies 
-                    regarding police and racial injustices. </p> 
-                <h4>We only want the Earth</h4>
-                <p>In chapter eight "We only want the Earth," Purnell explains that the climate, whether it is economic, racial, or environmental has resulted in movements in American history, 
-                and expressed how climate change has impacted Black communitities. Purnell explained how as a result of poverty, many people in her neighborhood would find themselves cooling off outside and 
-                for privacy as well. She also mentions how incarcerated people are facing with a analogy to the aftermath of Hurricane Katrina, in which new Orleans built make shift cells to "rebuild" New Orleans. 
-                She explains that this was not unique as in the aftermath of disasters African Americans tend to suffer the most, and wraps up the chapter by explaining that the "abolition of the prison industrial complex is the minimum for healthy
+                <p>In chapter one "What Justice," Purnell explains her early days growing up in South St. Louis. Her Father was killed in a accident 1991, and she was raised by her mother who
+                   gave her two career options- to either become a doctor or a lawyer. As a kid she excelled in school, and she notes that "Black people in St. Louis have a long history of
+                   using education as a site of resistance" (Purnell). She first recognized the problems with the social justice system in the country after 9/11, in which she notice that there
+                   were school police with scanners inside her school everyday, and noted that schools that were "—majority Black and economically divested—had the highest percentages of school
+                   cops, and it remains so" to this day (Purnell). Her first experience with reading and writing news was JROTC, where she first read about news that captured national headlines,
+                   such as Hurricane Katrina and the police shooting of Sean Bell. Her experiences with injustice all over during her college days shaped her perspective and views on both policies
+                   regarding police and racial injustices. </p>
+               <h4>We only want the Earth</h4>
+               <p>In chapter eight "We only want the Earth," Purnell explains that the climate, whether it is economic, racial, or environmental has resulted in movements in American history,
+               and expressed how climate change has impacted Black communities. Purnell explained how as a result of poverty, many people in her neighborhood would find themselves cooling off outside and
+               for privacy as well. She also mentions how incarcerated people are facing an analogy to the aftermath of Hurricane Katrina, in which New Orleans built makeshift cells to "rebuild" New Orleans.
+               She explains that this was not unique as in the aftermath of disasters African Americans tend to suffer the most, and wraps up the chapter by explaining that the "abolition of the prison industrial complex is the minimum for healthy
 lives that we all deserve to live. We only want the Earth." (Purnell) </p>
                 <h5>Source: "Becoming Abolitionists: Police, Protests, and the pursuit of freedom" by Derecka Purnell</h5>
              </DropTable>
